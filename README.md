@@ -1,7 +1,7 @@
-### Hi there 👋
+# Jose Marin de la Fuente 👋
 
 ## Developer, Web Designer, Creator, and Mentor!!
 
-### Languages and Tools:
+![GitHub Logo](./images/logo.png)
 
-<a href="https://www.marindelafuente.com.ar/" target="_blank">Visita mi página web!</a>
+<a href="https://www.marindelafuente.com.ar/" target="_blank">Visit my website!</a>
